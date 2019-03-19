@@ -19,8 +19,22 @@ Flexibly plot a univariate distribution of observations.
 Used for frequency measurement of data points ( mainly 1D data ).
 `sns.distplot(x)`
 ## Pie Chart 
+To visualize relative data ( data that are interrelated to each other ).
+
+    import matplotlib.pyplot as plt
+    #Data to plot
+    labels = 'Python', 'C++', 'Ruby', 'Java'
+    sizes = [215, 130, 245, 210]
+    colors = ['gold', 'yellowgreen', 'lightcoral', 'lightskyblue']
+    explode = (0.1, 0, 0, 0)  # explode 1st slice
+    #Plot
+    plt.pie(sizes, explode=explode, labels=labels, colors=colors,
+    autopct='%1.1f%%', shadow=True, startangle=140)
+    plt.axis('equal')
+    plt.show()
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYyOTg5MzcsLTEzNjI5MTQ5OTBdfQ
+eyJoaXN0b3J5IjpbLTE0MDc4NTEyODksLTEzNjI5MTQ5OTBdfQ
 ==
 -->
