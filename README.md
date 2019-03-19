@@ -1,11 +1,12 @@
-# Topics
+# Topics 
 * Interpolation
 * Scatter Plot
 * Bar Plot
 * Histogram
-## Interpolation
+* Pie Chart
+## Interpolation 
 Use neighboring values to find the missing value in a distribution.
-## Scatter Plot
+## Scatter Plot 
 Plotting each data point uniquely.
 Draw a scatter plot with possibility of several semantic groupings.
 `sns.scatterplot(x, y)`
@@ -17,7 +18,9 @@ Generally used when data is too big to understand from scatter plot.
 Flexibly plot a univariate distribution of observations.
 Used for frequency measurement of data points ( mainly 1D data ).
 `sns.distplot(x)`
+## Pie Chart 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTcxNzA1NSwtMTM2MjkxNDk5MF19
+eyJoaXN0b3J5IjpbLTE1NDYyOTg5MzcsLTEzNjI5MTQ5OTBdfQ
+==
 -->
