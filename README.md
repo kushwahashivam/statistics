@@ -4,6 +4,7 @@
 * Bar Plot
 * Histogram
 * Pie Chart
+* Simpson
 ## Interpolation 
 Use neighboring values to find the missing value in a distribution.
 ## Scatter Plot 
@@ -35,6 +36,6 @@ To visualize relative data ( data that are interrelated to each other ).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc4NTEyODksLTEzNjI5MTQ5OTBdfQ
-==
+eyJoaXN0b3J5IjpbMTA0ODg0Nzg2NiwtMTQwNzg1MTI4OSwtMT
+M2MjkxNDk5MF19
 -->
