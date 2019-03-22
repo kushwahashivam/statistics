@@ -41,7 +41,10 @@ Probability tells us how often some event will happen after many repeated trials
 ## Conditional Probability
 A conditional probability is the probability of an event, given some other event has already occurred. Probability that a certain event will occur given some knowledge about the outcome or some other event.
 
+    P(X, Y) = P(X|Y) * P(Y)
+    P(X) = P(X|Y) * P(Y) + P(X|⌐Y) * P(⌐Y)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODEyMDQzLC0xNDA3ODUxMjg5LC0xMz
+eyJoaXN0b3J5IjpbLTgxNTEwODQ3LC0xNDA3ODUxMjg5LC0xMz
 YyOTE0OTkwXX0=
 -->
