@@ -46,8 +46,9 @@ A conditional probability is the probability of an event, given some other event
     P(X) = P(X|Y) * P(Y) + P(X|⌐Y) * P(⌐Y)
 ## Bayes Rule
 ![Bayes Rule](https://github.com/kushwahashivam/statistics/blob/master/images/image1.jpg)
+![Bayes Rule](https://github.com/kushwahashivam/statistics/blob/master/images/image2.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMjU3NjU1LC0xNDA3ODUxMjg5LC0xMz
-YyOTE0OTkwXX0=
+eyJoaXN0b3J5IjpbLTU2NjIzNzU5MCw4ODMyNTc2NTUsLTE0MD
+c4NTEyODksLTEzNjI5MTQ5OTBdfQ==
 -->
