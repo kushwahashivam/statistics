@@ -7,7 +7,7 @@
 * Simpson's Paradox
 * Probability
 * Conditional Probability
-* Bayes Ru
+* Bayes Rule
 ## Interpolation 
 Use neighboring values to find the missing value in a distribution.
 ## Scatter Plot 
@@ -44,8 +44,10 @@ A conditional probability is the probability of an event, given some other event
 
     P(X, Y) = P(X|Y) * P(Y)
     P(X) = P(X|Y) * P(Y) + P(X|⌐Y) * P(⌐Y)
+## Bayes Rule
+![Bayes Rule](https://github.com/kushwahashivam/statistics/blob/master/images/image1.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjc2Nzk4LC0xNDA3ODUxMjg5LC0xMz
+eyJoaXN0b3J5IjpbODgzMjU3NjU1LC0xNDA3ODUxMjg5LC0xMz
 YyOTE0OTkwXX0=
 -->
