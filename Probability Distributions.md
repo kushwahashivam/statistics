@@ -16,7 +16,8 @@ $$
 $$
 [More details](https://brilliant.org/wiki/continuous-random-variables-probability-density/)
 
-
+Density function can also be non uniform.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzAwNjczNSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTc4OTA5MjQwNCwxNzI3MDA2NzM1LC0yMD
+g4NzQ2NjEyXX0=
 -->
