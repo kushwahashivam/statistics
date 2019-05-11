@@ -48,9 +48,12 @@ A conditional probability is the probability of an event, given some other event
 
     P(X|Y) = P(X, Y)/P(Y)
     P(Y|X) = P(Y, X)/P(X)
-    
+    But P(X, Y) = P(Y, X)
+    So, 
+    P(Y|X) = P(X|Y).P(Y)/P(X)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3NDE2NzAsLTU2NjIzNzU5MCw4ODMyNT
-c2NTUsLTE0MDc4NTEyODksLTEzNjI5MTQ5OTBdfQ==
+eyJoaXN0b3J5IjpbMTk5MzI5MTk0NywtNTY2MjM3NTkwLDg4Mz
+I1NzY1NSwtMTQwNzg1MTI4OSwtMTM2MjkxNDk5MF19
 -->
