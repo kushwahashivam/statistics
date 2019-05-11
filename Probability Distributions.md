@@ -8,10 +8,13 @@ Heuristically, the probability density function is just the distribution from wh
 
 > The probability that a random variable X takes a value in the (open or closed) interval [a, b] is given by the integral of a function called **probability density function** f(x):
 > $$
-P(a <= X <= b) = \int_a^\ t^{z-1}e^{-t}dt\,.
+P(a <= X <= b) = \int_a^b f(x)dx.
 $$
-
-
+If the random variable can be any real number, the probability density function is normalized so that:
+$$
+\int_-\infty^\infty f(x)dx.
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE5OTY3NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExOTk4OTkxOTIsLTIwODg3NDY2MTJdfQ
+==
 -->
