@@ -17,7 +17,8 @@ $$
 [More details](https://brilliant.org/wiki/continuous-random-variables-probability-density/)
 
 Density function can also be non uniform.
+Density is the y-axis valuDensity can be smaller than or equal to or larger than one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTA5MjQwNCwxNzI3MDA2NzM1LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwNzA4ODMxNjUsMTcyNzAwNjczNSwtMj
+A4ODc0NjYxMl19
 -->
