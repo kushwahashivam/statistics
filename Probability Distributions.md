@@ -3,9 +3,10 @@ In case of continuous distribution, the probability of any discrete value is 0 (
 For example, in a 360 degree pendulum, the probability of pendulum being at a specific angle at any time is zero and probability of being in a range is perfectly defined.
 ## Density
 (Probability for Continuous Spaces)
+The equation used to describe a continuous probability distribution is called a probability density function. 
+Heuristically, the probability density function is just the distribution from which a continuous random variable is drawn, like the normal distribution, which is the PDF of a normally distributed continuous random variable.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg0OTY5OTAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjE0ODAwNjIzLC0yMDg4NzQ2NjEyXX0=
 -->
