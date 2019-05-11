@@ -12,9 +12,11 @@ P(a <= X <= b) = \int_a^b f(x)dx.
 $$
 If the random variable can be any real number, the probability density function is normalized so that:
 $$
-\int_-\infty^\infty f(x)dx.
+\int_{-\infty}^\infty f(x)dx = 1
 $$
+[More details](https://brilliant.org/wiki/continuous-random-variables-probability-density/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk4OTkxOTIsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTcyNzAwNjczNSwtMjA4ODc0NjYxMl19
 -->
